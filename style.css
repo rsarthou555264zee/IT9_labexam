@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-color: rgb(224, 247, 255);
 }
@@ -18,3 +19,25 @@ button {
   cursor: pointer;
   margin-bottom: 3rem;
 }
+=======
+body {
+  background-color: rgb(224, 247, 255);
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+button {
+  background-color: rgb(86, 179, 255);
+  border-radius: 15px;
+  border: none;
+  color: white;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 3rem;
+}
+>>>>>>> dc157064b6b9237f54a60fbd4ff0a8778b2260c4
